@@ -1,7 +1,7 @@
 # Deploying Microsoft Sentinel, Collecting Logs (Syslog & Diagnostic Settings), Creating/Modifying Analytics Rules and VMs Infrastructure as Code (IaC) Deployment with Terraform
 ![terraformtopology](https://github.com/t0neex/Terraform-AzureSentinel/assets/100233276/15cd31c4-8975-4ff4-952e-b443405741fa)
 
-This repository contains a Terraform script for deploying and modifying resources on Azure. This is related to the creation of Proof of Concepts (PoCs) for Microsoft Sentinel. Here's a brief overview of what each block in the `main.tf` file does:
+This repository contains a Terraform script for deploying and modifying resources on Azure. # This is related to the creation of Proof of Concepts (PoCs) for Microsoft Sentinel #. Here's a brief overview of what each block in the `main.tf` file does:
 
 1. `provider "azurerm"`: Configures the Azure Resource Manager (ARM) provider.
 2. `resource "azurerm_management_group"`: Creates an Azure Management Group.
