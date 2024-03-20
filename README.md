@@ -21,7 +21,7 @@ This repository contains a Terraform script for deploying and modifying resource
 16. `resource "azurerm_monitor_aad_diagnostic_setting"`: Creates a diagnostic setting for Azure Active Directory / Entra ID. It installs Azure Activity Connector!
 17. `resource "azurerm_sentinel_alert_rule_scheduled"`: Creates a scheduled alert rule in Azure Sentinel.
 
-Please note that this is a high-level overview. Each block has many properties that can be configured based on your specific requirements. Also, the actual resources created and their configurations will depend on the values of the variables used in this script.
+Please note that this is a high-level overview. Each block has many properties that can be configured based on your specific requirements. Also, the actual resources created and their configurations will depend on the values of the variables used in this script. And do not forget to check variables!
 
 ## Steps followed to Work with `main.tf`
 
