@@ -1,5 +1,5 @@
 # Deploying Microsoft Sentinel, Collecting Logs (Syslog & Diagnostic Settings), Creating/Modifying Analytics Rules and VMs Infrastructure as Code (IaC) Deployment with Terraform
-![terraformtopology](https://github.com/t0neex/Terraform-AzureSentinel/assets/100233276/15cd31c4-8975-4ff4-952e-b443405741fa)
+![topologyterraf](https://github.com/t0neex/Power-Of-Terraform-On-Azure-and-MicrosoftSentinel/assets/100233276/db63bf29-f859-48c3-a825-5beda3a92510)
 
 This repository contains a Terraform script for deploying and modifying resources on Azure. # This is related to the creation of Proof of Concepts (PoCs) for Microsoft Sentinel #. Here's a brief overview of what each block in the `main.tf` file does:
 
